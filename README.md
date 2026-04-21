@@ -24,7 +24,7 @@ Me apasiona usar los datos para descubrir patrones, resolver problemas de negoci
 
 ---
 
-### 📂 Proyectos Destacados
+### 📂 Proyectos Destacados Ciencia de Datos 
 🔹 **[Verificación de Edad con imágenes](https://github.com/Jenifer-Gonzalez-DS-QA/Verificacion_de_Edad)**  
 > Este proyecto tiene como objetivo desarrollar y evaluar un modelo de aprendizaje profundo para estimar la edad de personas a partir de fotografías faciales.
 
@@ -33,6 +33,20 @@ Me apasiona usar los datos para descubrir patrones, resolver problemas de negoci
 
 🔹 **[Predicción de recuperación de oro](https://github.com/Jenifer-Gonzalez-DS-QA/Prediccion-de-recuperacion-de-oro)**  
 > Desarrollo de un modelo predictivo para estimar la cantidad de oro extraído del mineral. Incluye análisis exploratorio, ingeniería de características y evaluación de desempeño.
+
+---
+
+### 📂 Proyectos Destacados QA Automatización 
+
+🔹 **[Framework de automatización de pruebas APIs Rest](https://github.com/Jenifer-Gonzalez-DS-QA/api-testing-framework)**  
+> Framework de automatización de pruebas para APIs REST usando Python + pytest + requests. Cubre operaciones CRUD completas sobre usuarios, posts, comentarios y todos con reportes HTML automáticos.
+
+🔹 **[Dashboard interactivo de métricas de calidad](https://github.com/Jenifer-Gonzalez-DS-QA/qa-dashboard)**  
+> Dashboard interactivo de métricas de calidad generado automáticamente con Python + pandas + Plotly. Combina automatización de pruebas de API con análisis de datos para visualizar el estado de calidad en tiempo real.
+
+🔹 **[Suite de pruebas con 3 niveles (smoke, regresión, performance) integrada con *GitHub Actions*](https://github.com/Jenifer-Gonzalez-DS-QA/qa-cicd-pipeline)**  
+> Suite de pruebas con 3 niveles (smoke, regresión, performance) integrada con GitHub Actions. Las pruebas corren automáticamente en cada push o pull request
+
 
 ---
 
