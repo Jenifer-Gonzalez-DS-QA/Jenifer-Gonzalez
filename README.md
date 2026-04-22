@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- BANNER: crea un banner en Canva con este texto y súbelo como imagen -->
-<!-- <img src="banner.png" width="100%" /> -->
+<img src="banner.png" width="100%" /> -->
 
 # Jenifer González
 ### `QA Automation Engineer` → `Data Scientist`
